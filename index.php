@@ -21,7 +21,7 @@
     <!-- ############## -->
     <nav class="navbar navbar-expand-lg" style="z-index: 1000;">
         <div class="container">
-            <a class="navbar-brand mx-5 text-white text-uppercase fw-bold" href="#">Build <span style="color: #ff8400;">together</span></a>
+            <a class="navbar-brand text-white text-uppercase fw-bold" href="#">Build <span style="color: #ff8400;">together</span></a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -242,35 +242,33 @@
                 <div class="card-list swiper-wrapper">
                     <div class="card-item swiper-slide">
                         <img src="/assets/images/Testimonials.jpg" alt="user image" class="user-image" />
-                        <p class="user-profession">Justinette</p>
-                        <span class="message-boutton">Un service impeccable, ma maison n'a jamais été aussi propre !</span>
+                        <p class="user-profession">Mme Dupont, Propriétaire</p>
+                        <span class="message-boutton">Nous avons fait appel à l'entreprise pour la rénovation complète de notre maison.</span>
                     </div>
                     <div class="card-item swiper-slide">
                         <img src="/assets/images/Testimonials.jpg" alt="user image" class="user-image" />
-                        <p class="user-profession">Josuella Sm</p>
-                        <span class="message-boutton">Équipe professionnelle et rapide, je recommande vivement !</span>
+                        <p class="user-profession">M. et Mme Leroy, </p>
+                        <span class="message-boutton">Lorsque nous avons décidé de construire notre maison individuelle, le choix de l'entreprise de construction s'est imposé comme une évidence.</span>
                     </div>
                     <div class="card-item swiper-slide">
                         <img src="/assets/images/Testimonials.jpg" alt="user image" class="user-image" />
-                        <p class="user-profession">Gloriana dasilva</p>
-                        <span class="message-boutton">Un grand merci pour votre efficacité, je suis ravie du résultat !</span>
+                        <p class="user-profession">M. Mercier , Client</p>
+                        <span class="message-boutton">Que ce soit pour les travaux de gros œuvre ou les finitions, l'entreprise a fait preuve d'un savoir-faire technique remarquable. </span>
                     </div>
                     <div class="card-item swiper-slide">
                         <img src="/assets/images/Testimonials.jpg" alt="user image" class="user-image" />
-                        <p class="user-profession">Henock kaba</p>
-                        <span class="message-boutton">Un nettoyage en profondeur qui a transformé mon espace de vie!</span>
+                        <p class="user-profession">Mme Dupont, Propriétaire</p>
+                        <span class="message-boutton">Nous avons fait appel à l'entreprise pour la rénovation complète de notre maison. </span>
                     </div>
                     <div class="card-item swiper-slide">
                         <img src="/assets/images/Testimonials.jpg" alt="user image" class="user-image" />
-                        <p class="user-profession">Daniel boxl</p>
-                        <span class="message-boutton">Service fiable et de qualité, je fais appel à vous régulièrement.
-
-                        </span>
+                        <p class="user-profession">M. et Mme Leroy, Clients</p>
+                        <span class="message-boutton">Lorsque nous avons décidé de construire notre maison individuelle, le choix de l'entreprise de construction s'est imposé comme une évidence.</span>
                     </div>
                     <div class="card-item swiper-slide">
                         <img src="/assets/images/Testimonials.jpg" alt="user image" class="user-image" />
-                        <p class="user-profession">Kelly kzd</p>
-                        <span class="message-boutton">Je suis impressionnée par l'attention aux détails, un excellent travail !</span>
+                        <p class="user-profession">M. Mercier, Client</p>
+                        <span class="message-boutton">Que ce soit pour les travaux de gros œuvre ou les finitions, l'entreprise a fait preuve d'un savoir-faire technique remarquable.</span>
                     </div>
                 </div>
                 <div class="swiper-pagination"></div>
