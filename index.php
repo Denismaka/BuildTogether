@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/assets/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="/assets/fonts/css/all.min.css">
+    <link rel="stylesheet" href="/assets/font/css/all.min.css">
     <link rel="stylesheet" href="/assets/Js/app.js">
     <link rel="stylesheet" href="/assets/css/style.css">
     <link rel="website icon" href="/assets/images/Patmos_Logo_2544cfe63a.webp" />
@@ -39,9 +39,11 @@
                                 Services
                             </a>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item " style="color: #000;" href="#">Action</a></li>
-                                <li><a class="dropdown-item " style="color: #000;" href="#">Another action</a></li>
-                                <li><a class="dropdown-item " style="color: #000;" href="#">Something else here</a></li>
+                                <li><a class="dropdown-item " style="color: #000;" href="#">Conception et planification</a></li>
+                                <li><a class="dropdown-item " style="color: #000;" href="#">Construction et réalisation</a></li>
+                                <li><a class="dropdown-item " style="color: #000;" href="#">Gestion de chantier</a></li>
+                                <li><a class="dropdown-item " style="color: #000;" href="#">Services aux clients </a></li>
+                                <li><a class="dropdown-item " style="color: #000;" href="#">Expertise et innovation</a></li>
                             </ul>
                         </li>
                         <li class="nav-item">
@@ -124,6 +126,36 @@
                 </div>
                 <div class="col-md-6">
                     <img src="/assets/images/about.jpg" class="img-fluid rounded" style="filter: brightness(90%);" alt="">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ############## -->
+    <!-- Services-->
+    <!-- ############## -->
+    <section class="services" id="services">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3">
+                    <i class="fas fa-pencil-ruler"></i>
+                    <h4>Plan et conception créatifs</h4>
+                    <p>Nos équipes de conception innovent constamment pour proposer des solutions uniques et adaptées à chaque projet, repoussant les limites de la créativité.</p>
+                </div>
+                <div class="col-md-3">
+                    <i class="fa-solid fa-hard-hat"></i>
+                    <h4>Meilleure responsabilité professionnelle</h4>
+                    <p>Nous mettons un point d'honneur à offrir les meilleures garanties et assurances pour protéger nos clients et leurs investissements.</p>
+                </div>
+                <div class="col-md-3">
+                    <i class="fa-solid fa-tools"></i>
+                    <h4>Techniques d'ingénierie</h4>
+                    <p>Nos ingénieurs font appel aux dernières avancées techniques et technologiques pour concevoir des ouvrages solides, durables et sûrs.</p>
+                </div>
+                <div class="col-md-3">
+                    <i class="fa-solid fa-users"></i>
+                    <h4> Dévoués à nos clients</h4>
+                    <p>Nous plaçons les besoins et la satisfaction de nos clients au cœur de notre approche, en travaillant en étroite collaboration à chaque étape du projet.</p>
                 </div>
             </div>
         </div>
