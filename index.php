@@ -161,6 +161,38 @@
         </div>
     </section>
 
+    <!-- ############## -->
+    <!-- Projet -->
+    <!-- ############## -->
+    <section class="projets" id="projets">
+        <div class="container">
+            <div class="row">
+                <div class="section-title">
+                    <h4 class="text-uppercase fw-bold">services</h4>
+                    <h5 class="mt-5 text-capitalize fw-bold fs-2">Projets sur-mesure</h5>
+                    <p>Notre entreprise de construction se distingue par son approche personnalisée de chaque projet. Nous mettons un point d'honneur à comprendre en détail les besoins et attentes de nos clients afin de leur proposer des solutions sur-mesure, adaptées à leurs contraintes spécifiques.Que ce soit pour la construction d'un bâtiment neuf, la rénovation d'un ouvrage existant ou l'aménagement d'un espace, notre équipe d'experts s'investit pleinement dans chaque étape du processus. Nous veillons à une planification rigoureuse, une exécution précise et un suivi attentif, garantissant ainsi la réussite de chaque chantier. Grâce à notre expertise technique, notre créativité et notre sens de l'innovation, nous relevons avec succès les défis les plus complexes. Nos clients peuvent compter sur notre engagement à leurs côtés pour concrétiser leurs projets, quels qu'ils soient, dans le respect des délais, du budget et des normes en vigueur.</p>
+                </div>
+                <div class="col-md-4 mt-5">
+                    <img src="/assets/images/projet-01.jpg" class="img-fluid rounded mb-5" alt="">
+                </div>
+                <div class="col-md-4 mt-5">
+                    <img src="/assets/images/projet-01.jpg" class="img-fluid rounded mb-5" alt="">
+                </div>
+                <div class="col-md-4 mt-5">
+                    <img src="/assets/images/projet-01.jpg" class="img-fluid rounded mb-5" alt="">
+                </div>
+                <div class="col-md-4">
+                    <img src="/assets/images/projet-01.jpg" class="img-fluid rounded" alt="">
+                </div>
+                <div class="col-md-4">
+                    <img src="/assets/images/projet-01.jpg" class="img-fluid rounded" alt="">
+                </div>
+                <div class="col-md-4">
+                    <img src="/assets/images/projet-01.jpg" class="img-fluid rounded" alt="">
+                </div>
+            </div>
+        </div>
+    </section>
 
 
 
