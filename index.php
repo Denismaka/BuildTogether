@@ -280,11 +280,37 @@
         </div>
     </section>
 
-    <!-- ############## -->
-    <!-- contact -->
-    <!-- ############## -->
+    <!-- ################  -->
+    <!-- Contact  -->
+    <!-- ################  -->
     <section class="contact" id="contact">
-
+        <div class="container">
+            <div class="section-title">
+                <h4 class="text-uppercase fw-bold fs-3">contact</h4>
+                <h2 class="text-capitalize pt-4 fw-bold">ce que disent nos clients</h2>
+                <p class="fs-4">Découvrez les témoignages de nos clients satisfaits qui partagent leurs expériences positives avec nos services.</p>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <img src="/assets/images/Testimonials.jpg" class="img-fluid rounded" alt="">
+                </div>
+                <div class="col-md-6">
+                    <div class="contact-form">
+                        <form action="">
+                            <input type="text" placeholder="Nom" />
+                            <input type="email" name="" id="" placeholder="Adress mail" />
+                            <textarea
+                                name=""
+                                id=""
+                                cols="30"
+                                rows="10"
+                                placeholder="Écrivez votre message ici..."></textarea>
+                            <input type="button" value="Envoyer" class="contact-button" />
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
     </section>
 
 
@@ -293,7 +319,7 @@
     <script src="/assets/swiper/package/swiper-bundle.min.js"></script>
     <script src="/assets/bootstrap/js/bootstrap.bundle.min.js"></script>
     <script src="/assets/Js/script.js"></script>
-    <!-- <script src="/assets/scrollreveal/dist/scrollreveal.min.js"></script> -->
+    <script src="/assets/scrollreveal/dist/scrollreveal.min.js"></script>
     <script src="/assets/Js/app.js"></script>
 </body>
 
