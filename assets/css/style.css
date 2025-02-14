@@ -247,3 +247,63 @@
 #témoignages .slider-wrapper .swiper-slide-button:hover {
   color: var(--orange);
 }
+
+/* ############## */
+/* contact */
+/* ############## */
+#contact {
+  height: 80vh;
+}
+#contact .container .row .col-md-6:first-child {
+  padding-top: 3.5rem;
+}
+/* Formulaire  */
+#contact .container .row .col-md-6:last-child .contact-form {
+  display: flex;
+  justify-content: center;
+  margin-top: 4rem;
+}
+#contact .container .row .col-md-6:last-child .contact-form form {
+  display: flex;
+  flex-direction: column;
+}
+#contact .container .row .col-md-6:last-child .contact-form form input,
+textarea {
+  width: 400px;
+  padding: 14px;
+  margin-bottom: 10px;
+  border-radius: 0.5rem;
+  border: none;
+  outline: none;
+  background: var(--orange);
+}
+#contact .container .row .col-md-6:last-child .contact-form form textarea {
+  resize: none;
+  height: 200px;
+}
+#contact
+  .container
+  .row
+  .col-md-6:last-child
+  .contact-form
+  form
+  .contact-button {
+  font-weight: 500;
+  background-color: var(--black);
+  color: var(--white);
+  cursor: pointer;
+}
+#contact
+  .container
+  .row
+  .col-md-6:last-child
+  .contact-form
+  form
+  .contact-button:hover {
+  background: var(--orange);
+  transition: 0.8s ease-in-out;
+}
+#contact .container .row .col-md-6:last-child .copyright {
+  padding: 20px;
+  text-align: center;
+}
