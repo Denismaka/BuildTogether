@@ -18,7 +18,7 @@
     <!-- ############## -->
     <!-- NavBar -->
     <!-- ############## -->
-    <nav class="navbar navbar-expand-lg ">
+    <nav class="navbar navbar-expand-lg " style="z-index: 1000;">
         <div class="container-fluid">
             <a class="navbar-brand mx-5" href="#">Build<span>together</span></a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -64,8 +64,43 @@
     </nav>
 
     <!-- ############## -->
-    <!-- NavBar -->
+    <!-- Home -->
     <!-- ############## -->
+    <section class="home" id="home" style="margin-top: -3.5rem;">
+        <div id="carouselExample" class="carousel slide">
+            <div class="carousel-inner">
+                <div class="carousel-item active" style="height: 92vh;">
+                    <img src="/assets/images/banner.jpg" class="d-block w-100" alt="..." style="filter: brightness(90%);">
+                    <div class="carousel-caption d-none d-md-block" style=" top: 14rem; left: 0; transform: translate(0, 0);">
+                        <h1 class="text-capitalize">votre désir, notre défi</h1>
+                        <h2>Parce que nous savons à quel point c'est important pour vous.</h2>
+                    </div>
+                </div>
+                <div class="carousel-item" style="height: 92vh;">
+                    <img src="/assets/images/future.jpg" class="d-block w-100" alt="..." style="filter: brightness(50%);">
+                    <div class="carousel-caption d-none d-md-block" style=" top: 14rem; left: 0; transform: translate(0, 0);">
+                        <h1>Construire Votre Avenir</h1>
+                        <h2>Des solutions durables pour tous vos projets.</h2>
+                    </div>
+                </div>
+                <div class="carousel-item" style="height: 92vh;">
+                    <img src="/assets/images/Testimonials.jpg" class="d-block w-100" alt="..." style="filter: brightness(50%);">
+                    <div class="carousel-caption d-none d-md-block" style=" top: 14rem; left: 0; transform: translate(0, 0);">
+                        <h1>Innovations en Construction</h1>
+                        <h2>Alliez modernité et tradition pour des résultats impressionnants.</h2>
+                    </div>
+                </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Précédent</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Suivant</span>
+            </button>
+        </div>
+    </section>
 
 
 
