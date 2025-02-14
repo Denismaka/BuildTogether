@@ -123,3 +123,24 @@
   background-color: var(--black);
   transform: translateX(-50%);
 }
+
+/* ############## */
+/* Qualité */
+/* ############## */
+#qualite {
+  padding-top: 9rem;
+}
+#qualite .container .row .col-md-6 .btn {
+  color: var(--black);
+  border-bottom: 5px solid var(--orange);
+  text-align: center;
+  box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  padding-top: 17px;
+  border-radius: 7%;
+}
+#qualite .container .row .col-md-6 .btn:hover {
+  background-color: var(--black);
+  color: var(--white);
+  transition: 0.5s ease-in-out;
+}
