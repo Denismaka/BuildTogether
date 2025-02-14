@@ -10,22 +10,20 @@
 }
 :root {
   --orange: #ff8400;
-  --Black: #000;
+  --black: #000;
   --white: #fff;
 }
 /*section-title */
 .section-title {
   position: relative;
   color: var(--black);
-  margin-bottom: 60px;
-  text-align: center;
 }
 .section-title::before {
   content: '';
   position: absolute;
   top: 35px;
-  left: 41.2rem;
-  width: 220px;
+  left: 2.9rem;
+  width: 90px;
   height: 5px;
   background-color: var(--orange);
   transform: translateX(-50%);
@@ -34,7 +32,7 @@
   content: '';
   position: absolute;
   top: 30px;
-  left: 50%;
+  left: 7%;
   width: 15px;
   height: 15px;
   border-radius: 50%;
@@ -44,3 +42,31 @@
 /* ############## */
 /* Home */
 /* ############## */
+#about {
+  padding-top: 5rem;
+}
+#about .container .row:nth-child(2) {
+  margin-left: 0.5rem;
+}
+#about .container .row .col-md-3:first-child {
+  background-color: var(--orange);
+  color: var(--white);
+  padding: 15px 10px 15px 10px;
+  border-radius: 7%;
+  text-align: center;
+}
+#about .container .row .col-md-3:last-child {
+  color: var(--white);
+  border-bottom: 5px solid var(--orange);
+  text-align: center;
+  box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.2);
+  margin-left: 3rem;
+  cursor: pointer;
+  padding-top: 17px;
+  border-radius: 7%;
+}
+#about .container .row .col-md-3:last-child:hover {
+  background-color: var(--orange);
+  box-shadow: 0 0 1rem var(--black);
+  transition: 0.5s ease-in-out;
+}
