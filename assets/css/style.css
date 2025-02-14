@@ -13,6 +13,14 @@
   --black: #000;
   --white: #fff;
 }
+/*Scrollbar CSS*/
+::-webkit-scrollbar {
+  width: 8px;
+  background-color: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background-color: var(--orange);
+}
 /*section-title */
 .section-title {
   position: relative;

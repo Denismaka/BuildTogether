@@ -44,6 +44,7 @@
                                 <li><a class="dropdown-item " style="color: #000;" href="#">Gestion de chantier</a></li>
                                 <li><a class="dropdown-item " style="color: #000;" href="#">Services aux clients </a></li>
                                 <li><a class="dropdown-item " style="color: #000;" href="#">Expertise et innovation</a></li>
+                                <li><a class="dropdown-item " style="color: #000;" href="#">Autres...</a></li>
                             </ul>
                         </li>
                         <li class="nav-item">
@@ -285,8 +286,8 @@
         <div class="container">
             <div class="section-title">
                 <h4 class="text-uppercase fw-bold fs-3">contact</h4>
-                <h2 class="text-capitalize pt-4 fw-bold">ce que disent nos clients</h2>
-                <p class="fs-4">Découvrez les témoignages de nos clients satisfaits qui partagent leurs expériences positives avec nos services.</p>
+                <h2 class="text-capitalize pt-4 fw-bold">Contactez-nous</h2>
+                <p class="fs-4">Nos conseillers sont à votre écoute pour répondre à toutes vos questions et vous proposer les meilleures solutions adaptées à vos besoins de construction ou de rénovation.</p>
             </div>
             <div class="row">
                 <div class="col-md-6">
