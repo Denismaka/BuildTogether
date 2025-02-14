@@ -307,3 +307,10 @@ textarea {
   padding: 20px;
   text-align: center;
 }
+
+/* ############## */
+/* Témoignages */
+/* ############## */
+footer .btn {
+  background-color: var(--orange);
+}
