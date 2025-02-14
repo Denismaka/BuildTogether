@@ -148,25 +148,27 @@
 /* ############## */
 /* Testimonials */
 /* ############## */
-#testimonials {
-  padding-top: 9rem;
+#témoignages {
+  padding: 5rem;
 }
-#testimonials .container .row .section-title {
-  text-align: center;
+/*section-title */
+#témoignages .section-title {
   position: relative;
   color: var(--black);
+  margin-bottom: 60px;
+  text-align: center;
 }
-#testimonials .container .row .section-title::before {
+#témoignages .section-title::before {
   content: '';
   position: absolute;
   top: 35px;
-  left: 41rem;
-  width: 250px;
+  left: 41.2rem;
+  width: 220px;
   height: 5px;
   background-color: var(--orange);
   transform: translateX(-50%);
 }
-#testimonials .container .row .section-title::after {
+#témoignages .section-title::after {
   content: '';
   position: absolute;
   top: 30px;
@@ -175,4 +177,73 @@
   height: 15px;
   border-radius: 50%;
   background-color: var(--black);
+  transform: translateX(-50%);
+}
+#témoignages {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-position: center;
+  background-position: no-repeat;
+  background-size: cover;
+  padding-bottom: 5rem;
+  padding-top: 10rem;
+}
+#témoignages .slider-wrapper {
+  overflow: hidden;
+  max-width: 1200px;
+  margin: 0 70px 55px;
+}
+#témoignages .card-list .card-item {
+  user-select: none;
+  padding: 35px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+  background-color: var(--orange);
+  color: var(--black);
+}
+#témoignages .card-list .card-item .user-image {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-bottom: 40px;
+  border: 3px solid var(--white);
+  padding: 4px;
+}
+#témoignages .card-list .card-item .user-profession {
+  font-size: 1.5rem;
+  color: #e3e3e3;
+  font-weight: 500;
+  margin: 14px 0 40px;
+}
+#témoignages .card-list .card-item span {
+  padding: 10px 35px;
+  color: var(--white);
+  border-radius: 6px;
+  font-weight: 500;
+  cursor: pointer;
+  border: 1px solid transparent;
+  transition: 0.2s ease-in-out;
+}
+#témoignages .card-list .card-item span:hover {
+  background: rgba(255, 12, 12, 0.1);
+  border: 1px solid var(--white);
+  color: var(--white);
+}
+#témoignages .slider-wrapper .swiper-pagination-bullet {
+  background: var(--black);
+  height: 15px;
+  width: 15px;
+}
+#témoignages .slider-wrapper .swiper-slide-button {
+  color: var(--black);
+  margin-top: -50px;
+  transition: 0.2s ease-in-out;
+}
+#témoignages .slider-wrapper .swiper-slide-button:hover {
+  color: var(--orange);
 }
