@@ -231,16 +231,60 @@
     <!-- ############## -->
     <!-- Testimonials -->
     <!-- ############## -->
-    <section class="testimonials" id="testimonials">
-        <div class="container">
-            <div class="row">
-                <div class="section-title">
-                    <h4 class="text-uppercase fw-bold">our happy clients</h4>
-                    <h5 class="mt-5 text-capitalize fw-bold fs-2">testimonials</h5>
-                    <p>Chez <a href="#" class="text-uppercase fw-bold text-decoration-none text-dark">build <span style="color: #ff8400;">together</span></a>, la qualité et la sécurité sont au cœur de nos priorités. Nous mettons un point d'honneur à respecter les plus hauts standards de l'industrie, tant dans la sélection des matériaux que dans la mise en œuvre des techniques de construction.Chaque étape de nos projets fait l'objet d'un contrôle rigoureux, de l'élaboration des plans à la réception finale des ouvrages. Nos équipes sont formées aux dernières normes en vigueur et s'engagent à travailler dans le respect des consignes de sécurité les plus strictes.Nous sommes fiers de pouvoir offrir à nos clients la garantie de bâtiments solides, durables et sécurisés, conçus pour résister au temps et aux aléas. Notre engagement en matière de qualité et de sécurité est le gage de leur tranquillité d'esprit tout au long de notre collaboration.</p>
+    <section class="témoignages" id="témoignages">
+        <div class="container swiper">
+            <div class="section-title">
+                <h4 class="text-uppercase fw-bold fs-3">Témoignages</h4>
+                <h2 class="text-capitalize pt-4 fw-bold">ce que disent nos clients</h2>
+                <p class="fs-4">Découvrez les témoignages de nos clients satisfaits qui partagent leurs expériences positives avec nos services.</p>
+            </div>
+            <div class="slider-wrapper">
+                <div class="card-list swiper-wrapper">
+                    <div class="card-item swiper-slide">
+                        <img src="/assets/images/Testimonials.jpg" alt="user image" class="user-image" />
+                        <p class="user-profession">Justinette</p>
+                        <span class="message-boutton">Un service impeccable, ma maison n'a jamais été aussi propre !</span>
+                    </div>
+                    <div class="card-item swiper-slide">
+                        <img src="/assets/images/Testimonials.jpg" alt="user image" class="user-image" />
+                        <p class="user-profession">Josuella Sm</p>
+                        <span class="message-boutton">Équipe professionnelle et rapide, je recommande vivement !</span>
+                    </div>
+                    <div class="card-item swiper-slide">
+                        <img src="/assets/images/Testimonials.jpg" alt="user image" class="user-image" />
+                        <p class="user-profession">Gloriana dasilva</p>
+                        <span class="message-boutton">Un grand merci pour votre efficacité, je suis ravie du résultat !</span>
+                    </div>
+                    <div class="card-item swiper-slide">
+                        <img src="/assets/images/Testimonials.jpg" alt="user image" class="user-image" />
+                        <p class="user-profession">Henock kaba</p>
+                        <span class="message-boutton">Un nettoyage en profondeur qui a transformé mon espace de vie!</span>
+                    </div>
+                    <div class="card-item swiper-slide">
+                        <img src="/assets/images/Testimonials.jpg" alt="user image" class="user-image" />
+                        <p class="user-profession">Daniel boxl</p>
+                        <span class="message-boutton">Service fiable et de qualité, je fais appel à vous régulièrement.
+
+                        </span>
+                    </div>
+                    <div class="card-item swiper-slide">
+                        <img src="/assets/images/Testimonials.jpg" alt="user image" class="user-image" />
+                        <p class="user-profession">Kelly kzd</p>
+                        <span class="message-boutton">Je suis impressionnée par l'attention aux détails, un excellent travail !</span>
+                    </div>
                 </div>
+                <div class="swiper-pagination"></div>
+                <div class="swiper-slide-button swiper-button-prev" style=" top: 65%; transform: translateY(50%);"></div>
+                <div class="swiper-slide-button swiper-button-next" style=" top: 65%; transform: translateY(50%);"></div>
             </div>
         </div>
+    </section>
+
+    <!-- ############## -->
+    <!-- contact -->
+    <!-- ############## -->
+    <section class="contact" id="contact">
+
     </section>
 
 
