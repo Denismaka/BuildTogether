@@ -1,0 +1,19 @@
+/* ############## */
+/* General */
+/* ############## */
+
+* {
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+:root {
+  --orange: #ff8400;
+  --Black: #000;
+  --white: #fff;
+}
+
+/* ############## */
+/* Home */
+/* ############## */
