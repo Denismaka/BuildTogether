@@ -210,10 +210,10 @@
                 </div>
                 <div class="col-md-6">
                     <div class="row">
-                        <div class="col-md-6 mb-5 mt-5">
+                        <div class="col-md-6 mb-5 mt-2">
                             <img src="/assets/images/future.jpg" class="img-fluid rounded" style="filter: brightness(90%);" alt="">
                         </div>
-                        <div class="col-md-6 mb-5 mt-5">
+                        <div class="col-md-6 mb-5 mt-2">
                             <img src="/assets/images/future.jpg" class="img-fluid rounded" style="filter: brightness(90%);" alt="">
                         </div>
                         <div class="col-md-6">
