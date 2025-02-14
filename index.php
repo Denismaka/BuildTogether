@@ -194,6 +194,40 @@
         </div>
     </section>
 
+    <!-- ############## -->
+    <!-- Qualité -->
+    <!-- ############## -->
+    <section class="qualite" id="qualite">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="section-title">
+                        <h4 class="text-uppercase fw-bold">qualité</h4>
+                        <h5 class="mt-5 text-capitalize fw-bold fs-2">Qualité et sécurité irréprochables</h5>
+                        <p>Chez <a href="#" class="text-uppercase fw-bold text-decoration-none text-dark">build <span style="color: #ff8400;">together</span></a>, la qualité et la sécurité sont au cœur de nos priorités. Nous mettons un point d'honneur à respecter les plus hauts standards de l'industrie, tant dans la sélection des matériaux que dans la mise en œuvre des techniques de construction.Chaque étape de nos projets fait l'objet d'un contrôle rigoureux, de l'élaboration des plans à la réception finale des ouvrages. Nos équipes sont formées aux dernières normes en vigueur et s'engagent à travailler dans le respect des consignes de sécurité les plus strictes.Nous sommes fiers de pouvoir offrir à nos clients la garantie de bâtiments solides, durables et sécurisés, conçus pour résister au temps et aux aléas. Notre engagement en matière de qualité et de sécurité est le gage de leur tranquillité d'esprit tout au long de notre collaboration.</p>
+                    </div>
+                    <a href="#" class="btn">savoir plus</a>
+                </div>
+                <div class="col-md-6">
+                    <div class="row">
+                        <div class="col-md-6 mb-5 mt-5">
+                            <img src="/assets/images/future.jpg" class="img-fluid rounded" style="filter: brightness(90%);" alt="">
+                        </div>
+                        <div class="col-md-6 mb-5 mt-5">
+                            <img src="/assets/images/future.jpg" class="img-fluid rounded" style="filter: brightness(90%);" alt="">
+                        </div>
+                        <div class="col-md-6">
+                            <img src="/assets/images/future.jpg" class="img-fluid rounded" style="filter: brightness(90%);" alt="">
+                        </div>
+                        <div class="col-md-6">
+                            <img src="/assets/images/future.jpg" class="img-fluid rounded" style="filter: brightness(90%);" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
 
 
 
