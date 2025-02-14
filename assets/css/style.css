@@ -13,7 +13,34 @@
   --Black: #000;
   --white: #fff;
 }
-
+/*section-title */
+.section-title {
+  position: relative;
+  color: var(--black);
+  margin-bottom: 60px;
+  text-align: center;
+}
+.section-title::before {
+  content: '';
+  position: absolute;
+  top: 35px;
+  left: 41.2rem;
+  width: 220px;
+  height: 5px;
+  background-color: var(--orange);
+  transform: translateX(-50%);
+}
+.section-title::after {
+  content: '';
+  position: absolute;
+  top: 30px;
+  left: 50%;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background-color: var(--black);
+  transform: translateX(-50%);
+}
 /* ############## */
 /* Home */
 /* ############## */
