@@ -39,6 +39,7 @@
   background-color: var(--black);
   transform: translateX(-50%);
 }
+
 /* ############## */
 /* Home */
 /* ############## */
@@ -69,4 +70,24 @@
   background-color: var(--orange);
   box-shadow: 0 0 1rem var(--black);
   transition: 0.5s ease-in-out;
+}
+
+/* ############## */
+/* Services */
+/* ############## */
+#services {
+  padding-top: 9rem;
+}
+#services .container .row .col-md-3 i {
+  color: var(--orange);
+  font-size: 40px;
+  padding-bottom: 30px;
+}
+#services .container .row .col-md-3 h4 {
+  color: var(--black);
+  font-weight: 600;
+}
+#services .container .row .col-md-3 p {
+  color: var(--black);
+  padding-top: 5px;
 }
