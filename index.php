@@ -101,6 +101,33 @@
         </div>
     </section>
 
+    <!-- ############## -->
+    <!-- About-->
+    <!-- ############## -->
+    <section class="about" id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="section-title">
+                        <h4 class="text-uppercase fw-bold">about</h4>
+                        <h5 class="mt-5 text-capitalize fw-bold fs-2">Développer une relation avec le béton.</h5>
+                        <p>Bienvenue chez <a href="#" class="text-uppercase fw-bold text-decoration-none text-dark">build <span style="color: #ff8400;">together</span></a>, votre partenaire de confiance dans le domaine de la construction. Forts de plusieurs années d'expérience, nous nous engageons à fournir des services de haute qualité, alliant innovation et savoir-faire traditionnel. Notre équipe d'experts travaille en étroite collaboration avec nos clients pour réaliser des projets sur mesure, respectant les délais et le budget. Nous mettons un point d'honneur à utiliser des matériaux durables et à promouvoir des pratiques respectueuses de l'environnement. Ensemble, construisons l'avenir !</p>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3">
+                            <a href="#" class="btn text-white">savoir plus</a>
+                        </div>
+                        <div class="col-md-3">
+                            <a href="#" class="btn text-dark">savoir plus</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <img src="/assets/images/about.jpg" class="img-fluid rounded" style="filter: brightness(90%);" alt="">
+                </div>
+            </div>
+        </div>
+    </section>
 
 
 
