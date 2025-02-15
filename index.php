@@ -71,22 +71,22 @@
     <section class="home" id="home" style="margin-top: -3.5rem;">
         <div id="carouselExample" class="carousel slide">
             <div class="carousel-inner">
-                <div class="carousel-item active" style="height: 92vh;">
-                    <img src="/assets/images/banner.jpg" class="d-block w-100" alt="..." style="filter: brightness(50%);">
+                <div class="carousel-item active" style="height: 99.9vh;">
+                    <img src="/assets/images/banner-01.jpg" class="d-block w-100" alt="..." style="filter: brightness(50%);">
                     <div class="carousel-caption d-none d-md-block" style=" top: 14rem; left: 0; transform: translate(0, 0);">
                         <h1 class="text-capitalize">votre désir, notre défi</h1>
                         <h2>Parce que nous savons à quel point c'est important pour vous.</h2>
                     </div>
                 </div>
-                <div class="carousel-item" style="height: 92vh;">
-                    <img src="/assets/images/future.jpg" class="d-block w-100" alt="..." style="filter: brightness(50%);">
+                <div class="carousel-item" style="height: 99.9vh;">
+                    <img src="/assets/images/banner-02.jpg" class="d-block w-100" alt="..." style="filter: brightness(50%);">
                     <div class="carousel-caption d-none d-md-block" style=" top: 14rem; left: 0; transform: translate(0, 0);">
                         <h1>Construire Votre Avenir</h1>
                         <h2>Des solutions durables pour tous vos projets.</h2>
                     </div>
                 </div>
-                <div class="carousel-item" style="height: 92vh;">
-                    <img src="/assets/images/Testimonials.jpg" class="d-block w-100" alt="..." style="filter: brightness(50%);">
+                <div class="carousel-item" style="height: 99.9vh;">
+                    <img src="/assets/images/banner-03.jpg" class="d-block w-100" alt="..." style="filter: brightness(50%);">
                     <div class="carousel-caption d-none d-md-block" style=" top: 14rem; left: 0; transform: translate(0, 0);">
                         <h1>Innovations en Construction</h1>
                         <h2>Alliez modernité et tradition pour des résultats impressionnants.</h2>
@@ -169,7 +169,7 @@
         <div class="container">
             <div class="row">
                 <div class="section-title">
-                    <h4 class="text-uppercase fw-bold">services</h4>
+                    <h4 class="text-uppercase fw-bold">Projets</h4>
                     <h5 class="mt-5 text-capitalize fw-bold fs-2">Projets sur-mesure</h5>
                     <p>Notre entreprise de construction se distingue par son approche personnalisée de chaque projet. Nous mettons un point d'honneur à comprendre en détail les besoins et attentes de nos clients afin de leur proposer des solutions sur-mesure, adaptées à leurs contraintes spécifiques.Que ce soit pour la construction d'un bâtiment neuf, la rénovation d'un ouvrage existant ou l'aménagement d'un espace, notre équipe d'experts s'investit pleinement dans chaque étape du processus. Nous veillons à une planification rigoureuse, une exécution précise et un suivi attentif, garantissant ainsi la réussite de chaque chantier. Grâce à notre expertise technique, notre créativité et notre sens de l'innovation, nous relevons avec succès les défis les plus complexes. Nos clients peuvent compter sur notre engagement à leurs côtés pour concrétiser leurs projets, quels qu'ils soient, dans le respect des délais, du budget et des normes en vigueur.</p>
                 </div>
@@ -177,19 +177,19 @@
                     <img src="/assets/images/projet-01.jpg" class="img-fluid rounded mb-5" alt="">
                 </div>
                 <div class="col-md-4 mt-5">
-                    <img src="/assets/images/projet-01.jpg" class="img-fluid rounded mb-5" alt="">
+                    <img src="/assets/images/projet-02.jpg" class="img-fluid rounded mb-5" alt="">
                 </div>
                 <div class="col-md-4 mt-5">
-                    <img src="/assets/images/projet-01.jpg" class="img-fluid rounded mb-5" alt="">
+                    <img src="/assets/images/projet-03.jpg" class="img-fluid rounded mb-5" alt="">
                 </div>
                 <div class="col-md-4">
-                    <img src="/assets/images/projet-01.jpg" class="img-fluid rounded" alt="">
+                    <img src="/assets/images/projet-04.jpg" class="img-fluid rounded" alt="">
                 </div>
                 <div class="col-md-4">
-                    <img src="/assets/images/projet-01.jpg" class="img-fluid rounded" alt="">
+                    <img src="/assets/images/projet-05.jpg" class="img-fluid rounded" alt="">
                 </div>
                 <div class="col-md-4">
-                    <img src="/assets/images/projet-01.jpg" class="img-fluid rounded" alt="">
+                    <img src="/assets/images/projet-06.jpg" class="img-fluid rounded" alt="">
                 </div>
             </div>
         </div>
@@ -212,16 +212,16 @@
                 <div class="col-md-6">
                     <div class="row">
                         <div class="col-md-6 mb-5 mt-2">
-                            <img src="/assets/images/future.jpg" class="img-fluid rounded" style="filter: brightness(90%);" alt="">
+                            <img src="/assets/images/Qualité-01.jpg" class="img-fluid rounded" style="filter: brightness(90%);" alt="">
                         </div>
                         <div class="col-md-6 mb-5 mt-2">
-                            <img src="/assets/images/future.jpg" class="img-fluid rounded" style="filter: brightness(90%);" alt="">
+                            <img src="/assets/images/Qualité-02.jpg" class="img-fluid rounded" style="filter: brightness(90%);" alt="">
                         </div>
                         <div class="col-md-6">
-                            <img src="/assets/images/future.jpg" class="img-fluid rounded" style="filter: brightness(90%);" alt="">
+                            <img src="/assets/images/Qualité-03.jpg" class="img-fluid rounded" style="filter: brightness(90%);" alt="">
                         </div>
                         <div class="col-md-6">
-                            <img src="/assets/images/future.jpg" class="img-fluid rounded" style="filter: brightness(90%);" alt="">
+                            <img src="/assets/images/Qualité-04.jpg" class="img-fluid rounded" style="filter: brightness(90%);" alt="">
                         </div>
                     </div>
                 </div>
@@ -242,32 +242,32 @@
             <div class="slider-wrapper">
                 <div class="card-list swiper-wrapper">
                     <div class="card-item swiper-slide">
-                        <img src="/assets/images/Testimonials.jpg" alt="user image" class="user-image" />
+                        <img src="/assets/images/témoignages-01.jpg" alt="user image" class="user-image" />
                         <p class="user-profession">Mme Dupont, Propriétaire</p>
                         <span class="message-boutton">Nous avons fait appel à l'entreprise pour la rénovation complète de notre maison.</span>
                     </div>
                     <div class="card-item swiper-slide">
-                        <img src="/assets/images/Testimonials.jpg" alt="user image" class="user-image" />
+                        <img src="/assets/images/témoignages-02.jpg" alt="user image" class="user-image" />
                         <p class="user-profession">M. et Mme Leroy, </p>
                         <span class="message-boutton">Lorsque nous avons décidé de construire notre maison individuelle, le choix de l'entreprise de construction s'est imposé comme une évidence.</span>
                     </div>
                     <div class="card-item swiper-slide">
-                        <img src="/assets/images/Testimonials.jpg" alt="user image" class="user-image" />
+                        <img src="/assets/images/témoignages-03.jpg" alt="user image" class="user-image" />
                         <p class="user-profession">M. Mercier , Client</p>
                         <span class="message-boutton">Que ce soit pour les travaux de gros œuvre ou les finitions, l'entreprise a fait preuve d'un savoir-faire technique remarquable. </span>
                     </div>
                     <div class="card-item swiper-slide">
-                        <img src="/assets/images/Testimonials.jpg" alt="user image" class="user-image" />
+                        <img src="/assets/images/témoignages-02.jpg" alt="user image" class="user-image" />
                         <p class="user-profession">Mme Dupont, Propriétaire</p>
                         <span class="message-boutton">Nous avons fait appel à l'entreprise pour la rénovation complète de notre maison. </span>
                     </div>
                     <div class="card-item swiper-slide">
-                        <img src="/assets/images/Testimonials.jpg" alt="user image" class="user-image" />
+                        <img src="/assets/images/témoignages-01.jpg" alt="user image" class="user-image" />
                         <p class="user-profession">M. et Mme Leroy, Clients</p>
                         <span class="message-boutton">Lorsque nous avons décidé de construire notre maison individuelle, le choix de l'entreprise de construction s'est imposé comme une évidence.</span>
                     </div>
                     <div class="card-item swiper-slide">
-                        <img src="/assets/images/Testimonials.jpg" alt="user image" class="user-image" />
+                        <img src="/assets/images/témoignages-03.jpg" alt="user image" class="user-image" />
                         <p class="user-profession">M. Mercier, Client</p>
                         <span class="message-boutton">Que ce soit pour les travaux de gros œuvre ou les finitions, l'entreprise a fait preuve d'un savoir-faire technique remarquable.</span>
                     </div>
@@ -291,7 +291,7 @@
             </div>
             <div class="row">
                 <div class="col-md-6">
-                    <img src="/assets/images/Testimonials.jpg" class="img-fluid rounded" alt="">
+                    <img src="/assets/images/contact.jpg" class="img-fluid rounded" alt="">
                 </div>
                 <div class="col-md-6">
                     <div class="contact-form">
