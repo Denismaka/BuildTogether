@@ -1,33 +1,45 @@
-// Javascript for navigation bar affects on scroll
-
-window.addEventListener('scroll', function () {
-  const header = document.querySelector('header');
-  header.classList.toggle('sticky', window.scrollY > 0);
-});
-
-const menuBtn = document.querySelector('.menu-btn');
-const navigation = document.querySelector('.navigation');
-const navigationItems = document.querySelectorAll('.navigation a'); // Ajouté
-
-menuBtn.addEventListener('click', () => {
-  menuBtn.classList.toggle('active');
-  navigation.classList.toggle('active');
-});
-
-navigationItems.forEach((navigationItem) => {
-  navigationItem.addEventListener('click', () => {
-    menuBtn.classList.remove('active');
-    navigation.classList.remove('active');
+document.addEventListener('DOMContentLoaded', () => {
+  const sr = ScrollReveal({
+    reset: true,
+    distance: '80px',
+    duration: 2000,
+    delay: 200,
   });
+
+  sr.reveal('.container, .heading', { origin: 'top' });
+  sr.reveal('img, .col-md-4, form', { origin: 'bottom' });
+  sr.reveal('h1, h3, h4, h5, span, li', { origin: 'left' });
+  sr.reveal('p, i, .row', { origin: 'right' });
 });
 
-ScrollReveal({
-  reset: true,
-  distance: '80px',
-  duration: 2000,
-  delay: 200,
+const swiper = new Swiper('.slider-wrapper', {
+  loop: true,
+  grabCursor: true,
+  spaceBetween: 30,
+
+  // If we need pagination
+  pagination: {
+    el: '.swiper-pagination',
+    clickable: true,
+    dynamicBullets: true,
+  },
+
+  // Navigation arrows
+  navigation: {
+    nextEl: '.swiper-button-next',
+    prevEl: '.swiper-button-prev',
+  },
+
+  // Breakpoints
+  breakpoints: {
+    0: {
+      slidesPerView: 1,
+    },
+    768: {
+      slidesPerView: 2,
+    },
+    1024: {
+      slidesPerView: 3,
+    },
+  },
 });
-ScrollReveal().reveal('.container, .heading', { origin: 'top' });
-ScrollReveal().reveal('img, .col-md-4, form', { origin: 'bottom' });
-ScrollReveal().reveal('h1, h3, h4, h5, span, li', { origin: 'left' });
-ScrollReveal().reveal('p, i, .row', { origin: 'right' });
